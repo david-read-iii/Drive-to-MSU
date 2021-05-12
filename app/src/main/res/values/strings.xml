@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drive to MSU</string>
+    <string name="text_view_instructions">
+        This app provides turn-by-turn navigation from any location on Earth to Montclair State University. It\s all here!
+    </string>
+    <string name="button_drive">Drive to MSU</string>
+</resources>
